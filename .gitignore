@@ -1,0 +1,12 @@
+# dependencies
+/node_modules
+
+
+/.scannerwork
+/.vscode
+/web_bkp
+
+#Variaveis de Ambiente
+.env
+sonar-project.properties
+localVotacao.json
